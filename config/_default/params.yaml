@@ -1,0 +1,63 @@
+description: The starter theme template of HB (Hugo Bootstrap) Framework.
+
+hb:
+  header:
+    brand: " " # the brand name, leave it empty to use site's title.
+    logo_bg: dark green # logo background color, used by logo with transparent background.
+    socials:
+      github: WealthInnovations
+      twitter: foo
+      mastodon: foo
+      facebook: foo
+      instagram: foo
+
+  footer:
+    socials:
+      github: WealthInnovations
+
+  blog:
+    paginate: 12 # paginate.
+    home: # homepage settings.
+      featured_posts: 5 # the number of the featured posts.
+      main_sections: # leave it empty to include all regular pages.
+ #       - docs
+ #       - blog
+ #       - tutorials
+ #   giscus:
+ #     repo: hbstack/theme
+ #     repo_id: R_kgDOJP3qtA
+ #     category_id: DIC_kwDOJP3qtM4CVavM
+ # docs:
+ #   giscus:
+ #     repo: hbstack/theme
+ #     repo_id: R_kgDOJP3qtA
+ #     category_id: DIC_kwDOJP3qtM4CVavM
+  content_panel:
+    repo:
+      service: github # github or gitlab.
+      repo: WealthInnovationsCa
+      branch: main
+      # subpath: exampleSite
+
+seo:
+  favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
+    svg_icon: /image/favicon.svg # use logo as favicon.
+
+# PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
+pwa:
+  debug: false
+  manifest:
+    background_color: white
+    theme_color: green
+    short_name: 'WealthInnovations'
+
+hugopress:
+  modules:
+    hb-custom:
+      hooks:
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/head-end.html.
+        head-end:
+          cacheable: true
+        # see layouts/partials/hugopress/modules/hb-custom/hooks/body-end.html.
+        body-end:
+          cacheable: true
