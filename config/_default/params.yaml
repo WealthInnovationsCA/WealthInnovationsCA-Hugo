@@ -6,6 +6,7 @@ hb:
     logo_bg: dark green # logo background color, used by logo with transparent background.
     socials:
       github: WealthInnovations
+      linkedin: foo
       twitter: foo
       mastodon: foo
       facebook: foo
@@ -35,7 +36,7 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: WealthInnovationsCa
+      repo: FilmonGebremeskel/WealthInnovationsCA-Hugo
       branch: main
       # subpath: exampleSite
 

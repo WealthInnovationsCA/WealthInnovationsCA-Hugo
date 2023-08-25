@@ -102,8 +102,15 @@ github.com/hugomods/giscus v0.1.0 h1:tIu1TzYByC/XlxxiBl9+CkQp9OeR4UhoZjbQSlcDt5E
 github.com/hugomods/giscus v0.1.0/go.mod h1:tCRkqNi/sMsLh3kjDesXZNzf4R/w+b5oc5boS/l8Jtw=
 github.com/hugomods/gravatar v0.2.0 h1:642HNhGN7Mw7qefNcUFJKzLoT2zJKt4IQkrS53mIUfA=
 github.com/hugomods/gravatar v0.2.0/go.mod h1:oATWuh5u2XUK/ZKzOD0VEP5I/TZfVZwplTyhT61Q4Fc=
+github.com/hugomods/icons v0.6.0 h1:G6RU93okhPPRDh/jqcew9gwkcYpSpg0rCBv4S6yUAFw=
+github.com/hugomods/icons/vendors/feather v0.2.1 h1:K4/QWcjBJM6X4CDVL3HkUQyecKV8liLMUUEZplnwEiw=
+github.com/hugomods/icons/vendors/feather v0.2.1/go.mod h1:rJI9XA0BjqQPTQuJP0ciO0Dagl23W+t9sSbKO6NBXng=
 github.com/hugomods/icons/vendors/font-awesome v0.6.0 h1:B5OwUkpVupNdtxyRlU+572HfCpvKhmIMX+8L49eTr3w=
 github.com/hugomods/icons/vendors/font-awesome v0.6.0/go.mod h1:6e81kH7XzgVySHRQtc+cA4bSabpCuZHorQL8LPv7raE=
+github.com/hugomods/icons/vendors/mdi v0.3.0 h1:Lb47OUzjlLjD5Ik41VRFZXs8pSNjo8j9WhhJvFEtR1E=
+github.com/hugomods/icons/vendors/mdi v0.3.0/go.mod h1:wbBjb2paemrSK8pZZm1K8Nv3AfiUWXVedkuzVFbBa+4=
+github.com/hugomods/icons/vendors/tabler v0.15.9 h1:9IYEgidjQNMt2AEYbD1ZRRDTGNiz71bSJJXNdKVhpgw=
+github.com/hugomods/icons/vendors/tabler v0.15.9/go.mod h1:eTth8mADCfF+MwCLxn5xX3q80gH69Yr9DQIUNPqZKGI=
 github.com/hugomods/katex v0.1.2 h1:F+G/zWPwdw06IhtdW6IQ0mqUsMVuEw+gWq+Y//CIjZE=
 github.com/hugomods/katex v0.1.2/go.mod h1:PyYvL1TtHIE5jbDHGnCT1XEnKFqdkqveU7AJtcBruu8=
 github.com/hugomods/search v0.1.2 h1:WOhPTlPIGqfh3ZYKAsgPfC9pW80rW2axAE0MTErz+Uk=

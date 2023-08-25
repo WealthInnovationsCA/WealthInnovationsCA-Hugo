@@ -55,7 +55,10 @@ require (
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.0 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
+	github.com/hugomods/icons/vendors/feather v0.2.1 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
+	github.com/hugomods/icons/vendors/mdi v0.3.0 // indirect
+	github.com/hugomods/icons/vendors/tabler v0.15.9 // indirect
 	github.com/hugomods/katex v0.1.2 // indirect
 	github.com/hugomods/search v0.1.2 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.0 // indirect
