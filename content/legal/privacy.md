@@ -1,7 +1,7 @@
 ---
-title: "PIPEDA Privacy Policy"
-# linkTitle:
-draft: true
+title: "Privacy Policy"
+# linkTitle: legal/privacy
+draft: false
 description: PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website
 noindex: false
 # comments: false
@@ -9,38 +9,39 @@ nav_weight: 1000
 # nav_icon:
 #   vendor: bootstrap
 #   name: toggles
-#   color: '#e24d0e'
-categories: legal
+#   color: '#55aaff'
+categories:
+#
 tags:
 #  - 
-images: https://www.wealthinnovations.ca/sites/default/files/1920x1200.jpg
-
+images:
+#
 menu:
   footer:
-    weight: 100
+    weight: 200
     params:
       icon:
-        vendor: bs
-        name: book
-        color: '#e24d0e'
+        vendor: mdi
+        name: alert-decagram-outline
+        color: '#55aaff'
 ---
 
 PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website
 
 <!--more-->
-# Effective Date
+### Effective Date
 
 January January 1, 2023
 
-# Privacy Officer
+### Privacy Officer
 
 Filmon Gebremeskal
 
-# How to Contact Us
+### How to Contact Us
 
 filmon@WeathInnovtions.CA
 
-# Personal Information Collected
+### Personal Information Collected
 
 We may collect personal infomation from you directly whenever you contact us or have ay involvement with us. For example, when you:
 
@@ -56,7 +57,7 @@ We may collect personal infomation from you directly whenever you contact us or 
 
 We collect personal information from you indetectly when it is available on socail meda; depending on your settings or the privacy policies applying for socail media and messaging services you use, like Facebook, Instagram, Link-In, or Twitter, you might give us permission to access information from thos accounts or services.
 
-# Links to Other Policies
+### Links to Other Policies
 - Copyright Notices
 - Terms of Use
 - Disclaimer

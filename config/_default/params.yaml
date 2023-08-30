@@ -1,4 +1,4 @@
-description: The starter theme template of HB (Hugo Bootstrap) Framework.
+description: Your wealth, our innovation. Together we grow.
 
 hb:
   header:
@@ -14,8 +14,8 @@ hb:
 
   footer:
     socials:
-      github: WealthInnovations
-
+      github: Claire-Crawford
+    powered_by: false
   blog:
     paginate: 12 # paginate.
     home: # homepage settings.

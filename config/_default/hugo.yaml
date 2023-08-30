@@ -1,6 +1,6 @@
 baseURL: https://demo.WealthInnovations.CA/
 languageCode: 'EN-CA.UTF-8'
-title: Wealth Innovations - Your wealth, our innovation – together we grow.
+title: Wealth Innovations
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2021-{year} Wealth Innovations. All Rights Reserved."
 defaultContentLanguage: en
