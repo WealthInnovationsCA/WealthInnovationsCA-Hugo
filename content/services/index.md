@@ -2,7 +2,7 @@
 title: "Services"
 date: 2017-03-02T12:00:00-05:00
 draft: false
-description:
+description: Our flexible suite of services is tailored to meet your current and future needs.
 noindex: true
 # comments: false
 nav_weight: 1000
@@ -26,9 +26,10 @@ menu:
         name: book
         color: '#e24d0e'
 ---
-OUR FLEXIBLE SUITE OF SERVICES IS TAILORED TO MEET YOUR CURRENT AND FUTURE NEEDS.
 
 You are busy balancing family life with a demanding business or professional career. There's little time to focus on the financial decisions that will help us to live well during our retirement.
+
+<!--more-->
 
 **Wealth Innovations doesn't just manage money. We manage lives.**
 

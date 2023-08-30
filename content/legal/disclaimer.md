@@ -28,7 +28,7 @@ menu:
         color: '#ffaa00'
 ---
 
-# Disclaimer:.
+# Disclaimer.
 
 <!--more-->
 
