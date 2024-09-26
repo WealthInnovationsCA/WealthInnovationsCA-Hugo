@@ -4,7 +4,7 @@
 # by David Lynn Skinner
 # for Davsk Ltd Co
 
-# Update scrip assumes all essentials are installed.
+# Update script assumes all essentials are installed.
 
 if whereis softwareupdate >/dev/null; then
   echo "Update MacOs."
@@ -29,3 +29,4 @@ CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest
 cd ../WealthInnovationsCA/WealthInnovationsCA-Hugo
 go get -u
 hugo mod get -u
+nlm update
