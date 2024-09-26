@@ -1,8 +1,8 @@
 baseURL: https://demo.WealthInnovations.CA/
 languageCode: 'EN-CA.UTF-8'
-title: Wealth Innovations
+title: Wealth Innovations Inc.
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2021-{year} Wealth Innovations. All Rights Reserved."
+copyright: "Copyright © 2021-{year} Wealth Innovations Inc. All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 disqusShortname:
