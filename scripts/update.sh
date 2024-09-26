@@ -1,4 +1,4 @@
-#!/usr/bin/zsh
+#!/bin/zsh
 
 # "update.sh"
 # by David Lynn Skinner
