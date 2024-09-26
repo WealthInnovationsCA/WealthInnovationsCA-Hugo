@@ -25,6 +25,6 @@ sudo ./update-golang.sh
 
 echo "Update Hugo"
 CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest
-cd ../WealthInnovationsCA-Hugo
+cd ../WealthInnovationsCA/WealthInnovationsCA-Hugo
 go get -u
 hugo mod get -u
