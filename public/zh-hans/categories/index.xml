@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分类 on HB 博客主题模板</title>
+    <link>http://localhost:1313/zh-hans/categories/</link>
+    <description>Recent content in 分类 on HB 博客主题模板</description>
+    <generator>Hugo</generator>
+    <language>zh-hans</language>
+    <copyright>Copyright © 2021-2024 Wealth Innovations Inc. All Rights Reserved.</copyright>
+    <atom:link href="http://localhost:1313/zh-hans/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

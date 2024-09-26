@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legals on Wealth Innovations Inc.</title>
+    <link>http://localhost:1313/legal/</link>
+    <description>Recent content in Legals on Wealth Innovations Inc.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2021-2024 Wealth Innovations Inc. All Rights Reserved.</copyright>
+    <atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Disclaimer</title>
+      <link>http://localhost:1313/legal/disclaimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/disclaimer/</guid>
+      <description>&lt;h1 id=&#34;disclaimer&#34;&gt;Disclaimer.&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/legal/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/privacy/</guid>
+      <description>&lt;p&gt;PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms of Use</title>
+      <link>http://localhost:1313/legal/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/terms/</guid>
+      <description>&lt;p&gt;Legal Terms of Use for all users of this site,&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
