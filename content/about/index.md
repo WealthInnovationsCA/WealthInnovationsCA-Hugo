@@ -2,7 +2,7 @@
 title: "Our Philosophy"
 # linkTitle:
 draft: false
-description: About Wealth Innovations. Our philosophy is to maximize your investments.
+description: About Wealth Innovations Inc. Our philosophy is to maximize your investments.
 noindex: false
 # comments: false
 nav_weight: 1000
@@ -30,7 +30,7 @@ menu:
 
 <!--more-->
 <p class="lead">
-Wealth Innovations is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
+Wealth Innovations Inc is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
 </p>
 
 ### Our Principles
