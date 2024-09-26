@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FilmonGebremeskel/WealthInnovationsCA-Hugo"
+    "url": "git+https://github.com/WealthInnovationsCA/WealthInnovationsCA-Hugo"
   },
-  "author": "Razon Yang <razonyang@gmail.com>",
+  "author": "Claire Crawford <armande38@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FilmonGebremeskel/WealthInnovationsCA-Hugo/issues"
+    "url": "https://github.com/WealthInnovationsCA/WealthInnovationsCA-Hugo/issues"
   },
-  "homepage": "https://github.com/FilmonGebremeskel/WealthInnovationsCA-Hugo#readme",
+  "homepage": "https://github.com/WealthInnovationsCA/WealthInnovationsCA-Hugo#readme",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "autoprefixer": "^10.4.14",
