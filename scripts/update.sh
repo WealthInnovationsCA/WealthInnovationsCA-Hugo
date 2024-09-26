@@ -21,6 +21,7 @@ brew upgrade
 
 echo "Update GoLang"
 cd ~/Documents/GitHub/update-golang
+git pull
 sudo ./update-golang.sh
 
 echo "Update Hugo"
