@@ -31,7 +31,7 @@ Summary.
 
 <!--more-->
 
-Wealth Innovations knows that it can be difficult to stay on top of your financial affairs. Your essential personal and corporate documents can create a mountain of paper. We have the solution!
+Wealth Innovations Inc knows that it can be difficult to stay on top of your financial affairs. Your essential personal and corporate documents can create a mountain of paper. We have the solution!
 
 Your Financial Library is our hallmark service offered exclusively for our clients.
 

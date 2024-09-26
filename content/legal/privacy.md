@@ -26,7 +26,7 @@ menu:
         color: '#55aaff'
 ---
 
-PIPEDA Privicy Policy for Canadian Users of WealthInnovations.CA Website
+PIPEDA Privacy Policy for Canadian Users of WealthInnovations.CA Website by Wealth Innovations Inc
 
 <!--more-->
 ### Effective Date

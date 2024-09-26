@@ -1,5 +1,5 @@
 ---
-title: Home Page for Wealth Innovations
+title: Home Page for Wealth Innovations Inc
 menu:
   main:
     name: Home

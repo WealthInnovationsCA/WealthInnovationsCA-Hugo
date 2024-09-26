@@ -51,7 +51,7 @@ Marc and Tanya are also very aware of the risks of becoming disabled. They under
 -The chances of becoming disabled for longer than 90 days at least once during their working career is 1 in 3.
 -The average length of a disability lasting over 90 days is 2.9 years.
 
-Given their concerns, they have asked the advisers at Wealth Innovations to prepare a commentary on the primary definitions of disability, as they have been told by other colleagues that this is often the most important component of the disability contract. They have also asked for a detailed discussion regarding disability programs available to professionals as well as a review of business overhead insurance and how it might apply to their practice. Finally, they have requested that the Wealth Innovations Group make recommendations, on each topic, with respect to both their practice and their own personal circumstances.
+Given their concerns, they have asked the advisers at Wealth Innovations to prepare a commentary on the primary definitions of disability, as they have been told by other colleagues that this is often the most important component of the disability contract. They have also asked for a detailed discussion regarding disability programs available to professionals as well as a review of business overhead insurance and how it might apply to their practice. Finally, they have requested that the Wealth Innovations Inc group make recommendations, on each topic, with respect to both their practice and their own personal circumstances.
 
 Disability insurance contracts typically use one of the three following definitions:
 

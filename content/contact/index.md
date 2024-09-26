@@ -33,7 +33,7 @@ Let us serve you no matter where you're located.
 
 ## OTTAWA (HEAD OFFICE)
 
-    Wealth Innovations
+    Wealth Innovations Inc
     265 Carling Ave #401
     Ottawa  ON K1S 2E1
     1 (613) 688-0388
@@ -42,7 +42,7 @@ Let us serve you no matter where you're located.
 
 ## TORONTO
 
-    Wealth Innovations
+    Wealth Innovations Inc.
     3625 Dufferin St #340
     North York  ON M3K 1Z2
     1 (647) 777-7800

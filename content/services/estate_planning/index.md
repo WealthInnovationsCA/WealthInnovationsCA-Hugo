@@ -19,4 +19,4 @@ There are several opportunities to achieve minimum taxes and maximum value for y
 
 Many people are apprehensive towards making an estate plan; the belief that planning for death may bring bad luck, or they just don't want to think about the prospect.  However, an effective estate plan allows the family to grieve without being burdened by the additional responsibilities.
 
-We respect the courage and wisdom that it takes to put together your estate plan. At ==Wealth Innovations==, we make sure that your will and estate plans are accurate and reflect the needs and wishes of you and your family.
+We respect the courage and wisdom that it takes to put together your estate plan. At ==Wealth Innovations Inc==, we make sure that your will and estate plans are accurate and reflect the needs and wishes of you and your family.

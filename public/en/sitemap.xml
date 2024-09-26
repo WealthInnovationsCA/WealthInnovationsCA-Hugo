@@ -3,44 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/solutions/start-up/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/solutions/mid-career/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/solutions/retirement/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/solutions/exit_strategies/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/solutions/rrsp/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hans"
-                href="http://localhost:1313/zh-hans/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
+    <loc>http://localhost:1313/post/2017/03/professional-incorporations/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/services/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/solutions/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -53,6 +40,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,18 +58,16 @@
                 />
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/legal/disclaimer/</loc>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/legal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/meet-with-me/</loc>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/legal/privacy/</loc>
+    <loc>http://localhost:1313/services/estate_planning/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/filmon/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hans"
@@ -93,9 +79,41 @@
                 href="http://localhost:1313/authors/filmon/"
                 />
   </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="http://localhost:1313/zh-hans/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/legal/</loc>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/meet-with-me/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2024-09-26T17:30:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/legal/privacy/</loc>
+    <lastmod>2023-08-29T19:48:21-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-08-24T17:10:42+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -113,5 +131,6 @@
                 />
   </url><url>
     <loc>http://localhost:1313/legal/terms/</loc>
+    <lastmod>2023-08-29T21:15:28-05:00</lastmod>
   </url>
 </urlset>

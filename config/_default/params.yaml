@@ -2,10 +2,10 @@ description: Your wealth, our innovation. Together we grow.
 
 hb:
   header:
-    brand: "Wealth Innovations" # the brand name, leave it empty to use site's title.
+    brand: "Wealth Innovations Inc." # the brand name, leave it empty to use site's title.
     logo_bg: dark green # logo background color, used by logo with transparent background.
     socials:
-      github: WealthInnovations
+      github: WealthInnovationsCA
       linkedin: foo
       twitter: foo
       mastodon: foo
@@ -36,7 +36,7 @@ hb:
   content_panel:
     repo:
       service: github # github or gitlab.
-      repo: FilmonGebremeskel/WealthInnovationsCA-Hugo
+      repo: WealthInnovationsCA/WealthInnovationsCA-Hugo
       branch: main
       # subpath: exampleSite
 
@@ -50,7 +50,7 @@ pwa:
   manifest:
     background_color: white
     theme_color: green
-    short_name: 'WealthInnovations'
+    short_name: 'WealthInnovationsInc'
 
 hugopress:
   modules:

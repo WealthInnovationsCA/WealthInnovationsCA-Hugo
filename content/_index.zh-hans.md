@@ -1,5 +1,5 @@
 ---
-title: WI 財富創新
+title: Wealth Innovation Inc 財富創新
 # menu:
 #   main:
 #     name: 主页
