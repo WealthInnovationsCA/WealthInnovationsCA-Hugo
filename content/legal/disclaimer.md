@@ -1,7 +1,6 @@
 ---
 title: "Disclaimer"
 linkTitle: Disclaimer
-date: 8 April 2023
 draft: false
 description: Website Legal Disclaimer
 noindex: false
