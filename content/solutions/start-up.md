@@ -20,4 +20,6 @@ If you have business partners or other shareholders in your practice or business
 
 These are just some of the important areas of discussion which should be carefully examined with your professional advisors. Ultimately, the piece of mind of knowing that your financial affairs are in excellent order will allow you to focus on growing and developing your business or professional practice with confidence.
 
+## Take the Test
+
 You may want to take our Self-Diagnostic Test, which can provide even further insight into your overall state of planning.
