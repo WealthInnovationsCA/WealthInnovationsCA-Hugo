@@ -31,7 +31,7 @@ You are busy balancing family life with a demanding business or professional car
 
 <!--more-->
 
-**Wealth Innovations Inc doesn't just manage money. We manage lives.**
+## **Wealth Innovations Inc** doesn't just manage money. We manage lives.
 
 We listen to you. Then we take great care to build and protect your wealth, minimize taxes and position your family to enjoy the benefits of your hard-earned wealth.
 
