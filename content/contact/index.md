@@ -51,7 +51,7 @@ Let us serve you no matter where you're located.
 
 ## LONDON
 
-    Wealth Innovations Partner.
+    Wealth Innovations Inc.
     129-4500 Blakie Rd.
     London, Ontario N6L1G5
     1 (226) 289-1975
