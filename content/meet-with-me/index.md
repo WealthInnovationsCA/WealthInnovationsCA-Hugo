@@ -1,6 +1,6 @@
 ---
 title: "Meet with Me"
-description: "Form to request contact from Wealth Innovations."
+description: "Form to request contact from Wealth Innovations Inc."
 noindex: false
 comments: false
 nav_weight: 1000
@@ -116,7 +116,7 @@ Please fill in the information below so that it is possible for us to reach you 
  </div>
  </div>
  
- <label for="who-referred-you">Who referred you to Wealth Innovations?</label>
+ <label for="who-referred-you">Who referred you to Wealth Innovations Inc?</label>
  <input type="text" name="who-referred-you" id="who-referred-you" placeholder="Name" required="">
     
  <input type="hidden" name="_subject" id="email-subject" value="Registration Form Submission">
