@@ -7,6 +7,8 @@ weight: 500
 REGISTERED RETIREMENT SAVINGS PLANS (RRSPS)
 Are you looking to reduce your tax liability this year?
 
+## RRSPS Deadlines
+
 Are you wondering how to approach Registered Retirement Savings Plans (RRSPs) in time to file your
 taxes?
 
@@ -14,6 +16,8 @@ Every year the CRA allows you to contribute to your RRSP 60 days past the end of
 it counts towards your RRSP contribution for the previous tax year.
 
 This year you have until March 1st, 2025.
+
+## Investment Strategies
 
 **Wealth Innovations Inc** offers holistic financial advice with investment strategies tailored to your unique life
 and business.
@@ -31,6 +35,8 @@ contribute to your RRSP this year to pay the taxes you want to pay.
 
 As a bonus, if you work with **Wealth Innovations Inc** to access an RRSP loan and invest those funds, we will
 include the cost of your personal tax return for 2024.
+
+## Book a Meeting
 
 To book a meeting: [http://wealthinnovations.ca/meet-with-us]
 
