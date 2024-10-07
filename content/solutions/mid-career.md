@@ -6,9 +6,11 @@ weight: 200
 ---
 You have gained significant experience and built a successful business or professional practice. You have developed many meaningful relationships both personally and professionally. At this stage of life, accumulating and protecting wealth is an important priority.
 
+## Financial Priorities in Mid-Career
+
 Other top financial priorities, aside from maintaining the lifestyle you have become accustomed to, most likely include planning for your children's education and your eventual retirement. Some questions you may also want to ask yourself include:
 
-- Have you actually developed a financial plan which clearly defines your goals and objectives with respect to wealth accumulation and retirement? And, more importantly, how you are going to achieve these objectives?
+- Have you developed a financial plan which clearly defines your goals and objectives concerning wealth accumulation and retirement? And, more importantly, how you are going to achieve these objectives?
 
 - Have the recent market conditions impacted your overall planning, or forced you to review or reconsider your financial plan?
 
@@ -21,5 +23,7 @@ Other top financial priorities, aside from maintaining the lifestyle you have be
 - Are you confident that your insurance affairs are in good order?
 
 It takes more than foresight to plan a healthy financial future. It takes commitment.
+
+## Take the Test
 
 You may want to take our Self-Diagnostic Test, which can provide even further insight into your overall state of planning.
