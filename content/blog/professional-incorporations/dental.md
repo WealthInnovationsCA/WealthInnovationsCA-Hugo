@@ -51,11 +51,12 @@ Marc and Tanya are also very aware of the risks of becoming disabled. They under
 -The chances of becoming disabled for longer than 90 days at least once during their working career is 1 in 3.
 -The average length of a disability lasting over 90 days is 2.9 years.
 
-Given their concerns, they have asked the advisers at **Wealth Innovations Inc** to prepare a commentary on the primary definitions of disability, as they have been told by other colleagues that this is often the most important component of the disability contract. They have also asked for a detailed discussion regarding disability programs available to professionals as well as a review of business overhead insurance and how it might apply to their practice. Finally, they have requested that the **Wealth Innovations Inc** group make recommendations, on each topic, with respect to both their practice and their own personal circumstances.
+Given their concerns, they have asked the advisers at **Wealth Innovations Inc** to prepare a commentary on the primary definitions of disability, as they have been told by other colleagues that this is often the most important component of the disability contract. They have also asked for a detailed discussion regarding disability programs available to professionals as well as a review of business overhead insurance and how it might apply to their practice. Finally, they have requested that the **Wealth Innovations Inc** group make recommendations, on each topic, with respect to both their practice and their circumstances.
 
+## Disability Insurance
 Disability insurance contracts typically use one of the three following definitions:
 
-- **“Own Occupation”** To qualify, you must be totally disabled due directly to injury or sickness and under the care of a physician, whereby you cannot perform the substantial duties of your regular occupation. You may still qualify for benefits if you are able to work in another occupation. Individual contracts may include an “own occupation” clause to age 65 or offer it as a rider. This definition is usually offered only to certain professionals and/or higher-income earners.
+- **“Own Occupation”** To qualify, you must be disabled due directly to injury or sickness and under the care of a physician, whereby you cannot perform the substantial duties of your regular occupation. You may still qualify for benefits if you can work in another occupation. Individual contracts may include an “own occupation” clause to age 65 or offer it as a rider. This definition is usually offered only to certain professionals and/or higher-income earners.
 - **“Regular Occupation”** The occupation in which you are regularly engaged at the onset of disability is the determining factor. Most basic policies will use this definition in the fire 24 months of claims, and then use the “any occupation” definition thereafter.
 - **“Any Occupation”** Disability for any suitable occupation according to your education, training and/or experience is the factor that determines if you qualify for benefits. Most, but not all, group contracts specify an “any occupation” definition after the first 2 years of disability.
 
@@ -63,7 +64,7 @@ As Marc and Tanya are high-income earners, we recommend that they acquire disabi
 
 With respect to Marc and Tanya’s second request, there are three primary methods of acquiring disability coverage, with each category having its own unique characteristics:
 
-## Employer-sponsored group benefits programs:
+### Employer-sponsored group benefits programs:
 - Premiums are generally cheaper than individual contracts.
 - If premiums are paid by the employer, the premiums will be considered a taxable benefit to the employee; however, the benefits at claim time will be non-taxable.
 - Qualifying for benefits is often more restrictive and usually has a 120-day waiting period.
@@ -71,27 +72,29 @@ With respect to Marc and Tanya’s second request, there are three primary metho
 - Coverage will typically end when you leave your employment.
 - Come plans may have an option to convert coverage to a personal plan.
 
-## Association plans:
+### Association plans:
 - Individual disability coverage is offered to its members on a grouped basis.
 - Disability definitions and premiums are not guaranteed.
 - Premiums are usually renewable and can often increase every five years.
 - Individuals must be a member of the association.
 
-## Personal disability plans:
+### Personal disability plans:
 - Personal plans are typically more comprehensive than group plans.
 - Premiums and definitions of disability are normally guaranteed.
 - Personal plans are more flexible and can be customized to meet the insured’s needs.
 - Premiums for this coverage are usually more expensive and are subject to more in-depth medical and financial underwriting.
 
-It is our recommendation that Marc and Tanya consider personal disability coverage as it is important to lock in and guarantee their disability premiums to age 65. Since they are both healthy, they should easily qualify for the coverage.
+We recommend that Marc and Tanya consider personal disability coverage as it is important to lock in and guarantee their disability premiums to age 65. Since they are both healthy, they should easily qualify for the coverage.
+
+## Business Overhead Insurance
 
 The final discussion point concerns business overhead insurance and how it may apply to Marc and Tanya’s practice.
 
-Business overhead insurance is designed to help the practice continue in the event of the professional’s disability by reimbursing the policy over for such qualifying expense as rent, eligible salaries, equipment loans and leases. Monthly benefits will be paid to the policy owner for the duration of the insured’s disability up to a maximum of two years.
+- Business overhead insurance is designed to help the practice continue in the event of the professional’s disability by reimbursing the policy over for such qualifying expense as rent, eligible salaries, equipment loans and leases. Monthly benefits will be paid to the policy owner for the duration of the insured’s disability up to a maximum of two years.
 
-With reference to premiums payments, they can be made by the individual, partnership or corporation and are considered to be a tax-deductible business expense. The reimbursement of the expenses paid by the policy at claim time will be treated as taxable income, however, these expenses are deductible by the practice.
+- Regarding premium payments, they can be made by the individual, partnership or corporation and are considered to be a tax-deductible business expense. The reimbursement of the expenses paid by the policy at claim time will be treated as taxable income, however, these expenses are deductible by the practice.
 
-It is especially important to note that personal disability insurance insures the professional’s income whereas business overhead insurance covers the ongoing expenses of the practice should the professional become disabled.
+- It is especially important to note that personal disability insurance insures the professional’s income whereas business overhead insurance covers the ongoing expenses of the practice should the professional become disabled.
 
 In conclusion, we strongly recommend that Marc and Tanya give careful consideration to business overhead coverage to ensure the continuation of the practice should either of them become disabled.
 
