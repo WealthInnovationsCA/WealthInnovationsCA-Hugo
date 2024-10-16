@@ -17,7 +17,7 @@ categories:
 #  - 
 tags:
 #  - 
-images: ["0 - terms of use for canadian website.png"]
+images: ["/legal/0 - terms of use for canadian website.png"]
 menu:
   footer:
     weight: 100
