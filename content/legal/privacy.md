@@ -11,7 +11,7 @@ nav_weight: 1000
 #   name: toggles
 #   color: '#55aaff'
 categories:
-#
+- Legal
 tags:
 #  - 
 images:
