@@ -19,7 +19,7 @@ tags:
 images:
 menu:
   footer:
-    weight: 300
+    weight: 400
     params:
       icon:
         vendor: mdi
