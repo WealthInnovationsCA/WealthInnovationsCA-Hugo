@@ -10,7 +10,7 @@ nav_icon:
   vendor: bootstrap
   name: toggles
   color: '#e24d0e'
-# series:
+series:
  - Legal
 # categories:
 #  -
