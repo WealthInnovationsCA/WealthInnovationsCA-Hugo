@@ -10,10 +10,8 @@ nav_weight: 1000
 #   vendor: mdi
 #   name: format-section
 #   color: '#e24d0e'
-series:
-  - Legal
 categories:
-#  - 
+  - Legal 
 tags:
 #  - 
 images: [/legal/AdobeStock_35704702_Impressum.svg]
