@@ -8,7 +8,7 @@ noindex: false
 nav_weight: 1000
 # nav_icon:
 #   vendor: mdi
-#   name: scale-balance
+#   name: format-section
 #   color: '#e24d0e'
 series:
   - Legal
@@ -23,7 +23,7 @@ menu:
     params:
       icon:
         vendor: mdi
-        name: scale-balance
+        name: format-section
         color: '#ffaa00'
 ---
 <main id="main" class="w3-content w3-padding-large w3-pale-yellow">
