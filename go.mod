@@ -13,7 +13,7 @@ require (
 	github.com/hbstack/back-to-top v0.2.0 // indirect
 	github.com/hbstack/base v0.6.2 // indirect
 	github.com/hbstack/bigger-picture v0.10.1 // indirect
-	github.com/hbstack/blog v0.37.4 // indirect
+	github.com/hbstack/blog v0.38.0 // indirect
 	github.com/hbstack/blog/modules/breadcrumb v0.1.23 // indirect
 	github.com/hbstack/blog/modules/content-panel v0.1.21 // indirect
 	github.com/hbstack/blog/modules/featured-image v0.2.21 // indirect
@@ -26,22 +26,22 @@ require (
 	github.com/hbstack/bs-tooltip v0.1.1 // indirect
 	github.com/hbstack/carousel v0.2.7 // indirect
 	github.com/hbstack/code-block-panel v0.1.2 // indirect
-	github.com/hbstack/content-panel v0.10.1 // indirect
-	github.com/hbstack/docs v0.19.0 // indirect
+	github.com/hbstack/content-panel v0.10.2 // indirect
+	github.com/hbstack/docs v0.20.1 // indirect
 	github.com/hbstack/docs/modules/breadcrumb v0.1.10 // indirect
 	github.com/hbstack/docs/modules/content-panel v0.1.8 // indirect
 	github.com/hbstack/docs/modules/doc-nav v0.3.7 // indirect
 	github.com/hbstack/docs/modules/featured-image v0.2.8 // indirect
 	github.com/hbstack/docs/modules/giscus v0.1.11 // indirect
 	github.com/hbstack/docs/modules/heading-sign v0.1.9 // indirect
-	github.com/hbstack/featured-image v0.2.1 // indirect
+	github.com/hbstack/featured-image v0.2.2 // indirect
 	github.com/hbstack/footer v0.4.1 // indirect
 	github.com/hbstack/footer/modules/socials v0.3.0 // indirect
 	github.com/hbstack/gallery v0.13.1 // indirect
 	github.com/hbstack/gallery/modules/breadcrumb v0.1.1 // indirect
 	github.com/hbstack/giscus v0.1.1 // indirect
 	github.com/hbstack/hb v0.15.3 // indirect
-	github.com/hbstack/header v0.15.0 // indirect
+	github.com/hbstack/header v0.16.2 // indirect
 	github.com/hbstack/header/modules/language-picker v0.1.26 // indirect
 	github.com/hbstack/header/modules/search v0.1.37 // indirect
 	github.com/hbstack/header/modules/socials v0.2.2 // indirect
@@ -64,7 +64,7 @@ require (
 	github.com/hbstack/search v0.2.2 // indirect
 	github.com/hbstack/slide v0.4.0 // indirect
 	github.com/hbstack/snackbar v0.1.2 // indirect
-	github.com/hbstack/socials v0.16.0 // indirect
+	github.com/hbstack/socials v0.17.0 // indirect
 	github.com/hbstack/syntax-highlighting v0.2.0 // indirect
 	github.com/hbstack/syntax-highlighting/styles/github-dark v0.1.1 // indirect
 	github.com/hbstack/syntax-highlighting/styles/gruvbox v0.1.1 // indirect
@@ -83,7 +83,7 @@ require (
 	github.com/hugomods/icons/vendors/feather v0.2.5 // indirect
 	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
 	github.com/hugomods/icons/vendors/mdi v0.3.6 // indirect
-	github.com/hugomods/icons/vendors/simple-icons v1.0.55 // indirect
+	github.com/hugomods/icons/vendors/simple-icons v1.0.56 // indirect
 	github.com/hugomods/icons/vendors/tabler v0.15.46 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
@@ -91,7 +91,7 @@ require (
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
-	github.com/hugomods/search v0.17.1 // indirect
+	github.com/hugomods/search v0.17.2 // indirect
 	github.com/hugomods/seo/modules/alternatives v0.1.1 // indirect
 	github.com/hugomods/seo/modules/base v0.1.3 // indirect
 	github.com/hugomods/seo/modules/favicons v0.2.2 // indirect
@@ -99,8 +99,8 @@ require (
 	github.com/hugomods/seo/modules/schema v0.1.3 // indirect
 	github.com/hugomods/seo/modules/translations v0.1.1 // indirect
 	github.com/hugomods/seo/modules/twitter-cards v0.1.1 // indirect
-	github.com/hugomods/shortcodes v0.22.0 // indirect
-	github.com/hugomods/simple-icons v13.12.0+incompatible // indirect
+	github.com/hugomods/shortcodes v0.23.0 // indirect
+	github.com/hugomods/simple-icons v13.14.0+incompatible // indirect
 	github.com/hugomods/snackbar v0.1.2 // indirect
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
@@ -108,4 +108,5 @@ require (
 	github.com/tabler/tabler-icons v3.19.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
+	github.com/willfaught/paige v0.92.0 // indirect
 )
