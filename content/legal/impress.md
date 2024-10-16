@@ -1,3 +1,31 @@
+---
+title: "Impressum"
+linkTitle: Impress
+draft: false
+description: Website Notice Legal Impressum statement of ownership by Wealth Innovations Inc OCN 2422036
+noindex: false
+# comments: false
+nav_weight: 1000
+# nav_icon:
+#   vendor: mdi
+#   name: scale-balance
+#   color: '#e24d0e'
+series:
+  - Legal
+categories:
+#  - 
+tags:
+#  - 
+images:
+menu:
+  footer:
+    weight: 300
+    params:
+      icon:
+        vendor: mdi
+        name: scale-balance
+        color: '#ffaa00'
+---
 # Impressum
 
 <main id="main" class="w3-content w3-padding-large w3-pale-yellow">
