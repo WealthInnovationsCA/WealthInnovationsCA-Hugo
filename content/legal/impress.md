@@ -26,8 +26,6 @@ menu:
         name: scale-balance
         color: '#ffaa00'
 ---
-# Impressum
-
 <main id="main" class="w3-content w3-padding-large w3-pale-yellow">
 <section class="s12 m6 l4 w3-mobile w3-card-4 w3-pale-green">
 <h2 class="w3-green">Contact</h2>
