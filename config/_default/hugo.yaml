@@ -24,11 +24,15 @@ module:
     - path: github.com/hbstack/syntax-highlighting/styles/github-dark
   
     # icons modules
-    # - path: github.com/hugomods/icons/vendors/font-awesome
+    - path: github.com/hugomods/icons/vendors/bootstrap
+    - path: github.com/hugomods/icons/vendors/font-awesome
+    - path: github.com/hugomods/icons/vendors/lucide
     - path: github.com/hugomods/icons/vendors/mdi
     - path: github.com/hugomods/icons/vendors/simple-icons
     - path: github.com/hugomods/icons/vendors/tabler
     - path: github.com/hugomods/icons/vendors/feather
+    - path: github.com/hugomods/icons/vendors/flag
+    - path: github.com/hugomods/icons/vendors/devicons
 
     # blog comments engine
     - path: github.com/hbstack/blog/modules/giscus

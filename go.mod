@@ -7,6 +7,7 @@ require (
 	github.com/KaTeX/KaTeX v0.16.11 // indirect
 	github.com/Templarian/MaterialDesign-SVG v7.4.47+incompatible // indirect
 	github.com/desandro/masonry v4.2.2+incompatible // indirect
+	github.com/devicons/devicon v2.16.0+incompatible // indirect
 	github.com/feathericons/feather v4.29.2+incompatible // indirect
 	github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 // indirect
 	github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000 // indirect
@@ -73,6 +74,7 @@ require (
 	github.com/hugomods/base v0.7.2 // indirect
 	github.com/hugomods/bootstrap v0.22.3 // indirect
 	github.com/hugomods/code-block-panel v0.7.1 // indirect
+	github.com/hugomods/font-awesome v6.6.0+incompatible // indirect
 	github.com/hugomods/fuse-js v0.1.0 // indirect
 	github.com/hugomods/giscus v0.1.1 // indirect
 	github.com/hugomods/gravatar v0.2.0 // indirect
@@ -80,14 +82,18 @@ require (
 	github.com/hugomods/i18n-js v0.2.1 // indirect
 	github.com/hugomods/icons v0.6.4 // indirect
 	github.com/hugomods/icons/vendors/bootstrap v0.5.7 // indirect
+	github.com/hugomods/icons/vendors/devicons v0.0.2 // indirect
 	github.com/hugomods/icons/vendors/feather v0.2.5 // indirect
-	github.com/hugomods/icons/vendors/font-awesome v0.6.0 // indirect
+	github.com/hugomods/icons/vendors/flag v0.0.2 // indirect
+	github.com/hugomods/icons/vendors/font-awesome v0.6.8 // indirect
+	github.com/hugomods/icons/vendors/lucide v0.3.38 // indirect
 	github.com/hugomods/icons/vendors/mdi v0.3.6 // indirect
 	github.com/hugomods/icons/vendors/simple-icons v1.0.56 // indirect
 	github.com/hugomods/icons/vendors/tabler v0.15.46 // indirect
 	github.com/hugomods/idb-js v0.1.0 // indirect
 	github.com/hugomods/images v0.11.2 // indirect
 	github.com/hugomods/katex v0.3.3 // indirect
+	github.com/hugomods/lucide-icons v0.331.0 // indirect
 	github.com/hugomods/masonry-js v0.1.0 // indirect
 	github.com/hugomods/mermaid v0.1.4 // indirect
 	github.com/hugomods/pwa v0.9.0 // indirect
@@ -105,6 +111,7 @@ require (
 	github.com/hugomods/workbox v0.1.0 // indirect
 	github.com/jakearchibald/idb v8.0.0+incompatible // indirect
 	github.com/krisk/Fuse v7.0.0+incompatible // indirect
+	github.com/lipis/flag-icons v7.2.3+incompatible // indirect
 	github.com/tabler/tabler-icons v3.19.0+incompatible // indirect
 	github.com/twbs/bootstrap v5.3.3+incompatible // indirect
 	github.com/twbs/icons v1.11.3 // indirect
