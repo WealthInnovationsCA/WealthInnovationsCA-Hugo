@@ -47,14 +47,14 @@ There are many types of permanent insurance products available in the market tod
 
 ### Whole Life Insurance Plans
 
-*Whole Life* is one of the oldest forms of permanent life insurance. Since premiums are level and the coverage is permanent, the premiums are much higher in the shorter term than premiums for regular-term insurance. The unique feature of whole life insurance is the payment of policy dividends which provide a cash value. There are a number of options with respect to policy dividends including receiving dividends in cash, using dividends to reduce premiums, purchase additional paid-up insurance, term enhancements or some combination of these options. The insured does not control or in any way manage how the funds are invested.
+*Whole Life* is one of the oldest forms of permanent life insurance. Since premiums are level and the coverage is permanent, the premiums are much higher in the shorter term than premiums for regular-term insurance. The unique feature of whole life insurance is the payment of policy dividends which provide a cash value. There are several options concerning policy dividends including receiving dividends in cash, using dividends to reduce premiums, purchase additional paid-up insurance, term enhancements or some combination of these options. The insured does not control or in any way manage how the funds are invested.
 
-With respect to taxation, Whole Life policies are quite complex and must be reviewed with your insurance advisor. The tax considerations are also subject to when policy was purchased as the rules have changed over time.
+Concerning taxation, Whole Life policies are quite complex and must be reviewed with your insurance advisor. The tax considerations are also subject to when policy was purchased as the rules have changed over time.
 
 ### Universal Life
 
-Universal Life plans were developed in response to consumer demand for a more accountable and flexible insurance product as compared to traditional whole-life plans. Universal Life is permanent life insurance protection with a tax-advantaged investment component.  These plans offer complete disclosure with respect to pricing, mortality costs, expenses and investment returns. They also offer the policy owner the opportunity to choose from a wide range of investments and completely control the investment process. Universal Life can be used to supplement retirement income, long-term care or home care, and to build a cash pool tax-deferred.
+Universal Life plans were developed in response to consumer demand for a more accountable and flexible insurance product as compared to traditional whole-life plans. Universal Life is permanent life insurance protection with a tax-advantaged investment component.  These plans offer complete disclosure concerning pricing, mortality costs, expenses and investment returns. They also offer the policy owner the opportunity to choose from a wide range of investments and completely control the investment process. Universal Life can be used to supplement retirement income, long-term care or home care, and to build a cash pool tax-deferred.
 
 Universal Life plans can be used as collateral for loans or a line of credit. 
 
-More information about how to create an income stream or loan from a Universal Life policy can be seen on the Insured Retirement Program page.
+More information about how to create an income stream or loan from a Universal Life policy can be seen on the [Insured Retirement Program](/Services/Insurance/Life Insurance/Insured_Retirement_Program) page.
