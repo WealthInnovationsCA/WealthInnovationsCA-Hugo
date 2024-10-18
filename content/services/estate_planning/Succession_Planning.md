@@ -31,12 +31,12 @@ A business in transition is a business that is not 100% focused on doing what th
 
 <!--more-->
 
-Consider the fact that two thirds of businesses do not make it from the transfer from the first generation to the second (Wharton School of Business, University of Pennsylvania).
+Consider the fact that two-thirds of businesses do not make it from the transfer from the first generation to the second ([Wharton School of Business, University of Pennsylvania](https://knowledge.wharton.upenn.edu/)).
 
-It is imperative to have a succession plan prepared well in advance to make sure that your business can continue operating smoothly. In some cases, a succession plan does not properly respect the magnitude of change that new leadership can bring. Treating the succession process in a casual manner can have dangerous results. For example, not giving the appointed successor forewarning of his new position can yield devastating side effects. They may be unprepared for the position, and unaware of some aspects of the job, among many other things. This is just one of the many things that can go wrong in an unclear succession plan.
+It is very important to have a succession plan prepared well in advance to make sure that your business can continue operating smoothly. In some cases, a succession plan does not properly respect the magnitude of change that new leadership can bring. Casually treating the succession process can have dangerous results. For example, not giving the appointed successor forewarning of his new position can yield devastating side effects. They may be unprepared for the position, and unaware of some aspects of the job, among many other things. This is just one of the many things that can go wrong in an unclear succession plan.
 
-A clear, succinct succession plan is absolutely necessary to guarantee a smooth transition, regardless of who the new leadership is. Please have a look at our Exit Strategy to see if critical areas have been addressed.
+A clear, succinct succession plan is necessary to guarantee a smooth transition, regardless of who the new leadership is. Please have a look at our Exit Strategy to see if critical areas have been addressed.
 
 Also, have a look at the article featured below:
 
-Forbes.com: The psychology of succession planning
+- [Forbes.com: The psychology of succession planning](https://www.forbes.com/2008/10/21/intergenerational-succession-planning-pf-ii-in_ed_1021succession_inl.html)
