@@ -57,4 +57,4 @@ Universal Life plans were developed in response to consumer demand for a more ac
 
 Universal Life plans can be used as collateral for loans or a line of credit. 
 
-More information about how to create an income stream or loan from a Universal Life policy can be seen on the [Insured Retirement Program](/Services/Insurance/Life Insurance/Insured_Retirement_Program) page.
+More information about how to create an income stream or loan from a Universal Life policy can be seen on the [Insured Retirement Program](/Services/Insurance/Life%20Insurance/Insured_Retirement_Program) page.
