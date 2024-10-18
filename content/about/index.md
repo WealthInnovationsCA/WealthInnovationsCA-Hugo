@@ -30,7 +30,7 @@ menu:
 
 <!--more-->
 <p class="lead">
-<b>Wealth Innovations Inc</b>b> is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
+<b>Wealth Innovations Inc</b> is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
 </p>
 
 ### Our Principles
@@ -48,31 +48,31 @@ Our team’s multi-disciplinary approach to helping professionals, retirees and 
 ### Our core competencies
 <div class="container">
 <div class="row gap-3">
-<div class="card col-4" style="width: 18rem;">
+<div class="card col-4" style="width: 18 rem;">
 <div class="card-body">
 <h5 class="card-title bg-info text-dark">Objectivity</h5>
 <p class="card-text">Our clients can be certain that the recommendations made by us are driven exclusively by their needs.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18rem;">
+<div class="card col-4" style="width: 18 rem;">
 <div class="card-body">
 <h5 class="card-title">Transparency</h5>
 <p class="card-text">Our process and recommendations are fully transparent to our clients.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18rem;">
+<div class="card col-4" style="width: 18 rem;">
 <div class="card-body">
 <h5 class="card-title">Process</h5>
 <p class="card-text">We have a clearly defined process for the assessment, implementation and review of our recommendations.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18rem;">
+<div class="card col-4" style="width: 18 rem;">
 <div class="card-body">
 <h5 class="card-title">Service</h5>
 <p class="card-text">We deliver the exceptional service expected by the clients we serve.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18rem;">
+<div class="card col-4" style="width: 18 rem;">
 <div class="card-body">
 <h5 class="card-title">Innovative</h5>
 <p class="card-text">Our unique research process offers creative insurance and investment solutions</p>
