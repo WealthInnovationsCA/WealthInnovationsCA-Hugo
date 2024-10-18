@@ -30,7 +30,7 @@ menu:
 
 <!--more-->
 <p class="lead">
-**Wealth Innovations Inc** is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
+<b>Wealth Innovations Inc</b>b> is an independent financial services and wealth management firm. We are a team of professionals dedicated to developing and providing advanced wealth, retirement, and estate planning solutions for higher net-worth Canadians, business owners and/or professionals. Our corporate philosophy is one of wealth protection and estate preservation.
 </p>
 
 ### Our Principles
