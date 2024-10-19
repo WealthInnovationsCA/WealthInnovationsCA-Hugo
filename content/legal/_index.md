@@ -17,14 +17,14 @@ series:
 tags:
 #  -
 images: [services.jpg]
-menu:
-  main:
-    weight: 300
-    params:
-      icon:
-        vendor: bs
-        name: book
-        color: '#e24d0e'
+# menu:
+#  main:
+#    weight: 300
+#    params:
+#      icon:
+#        vendor: bs
+#        name: book
+#        color: '#e24d0e'
 ---
 
 Legal Notices

@@ -16,14 +16,14 @@ nav_icon:
 tags:
 #  -
 images: [Contact1920x1200.jpg]
-menu:
-  main:
-    weight: 600
-    params:
-      icon:
-        vendor: bs
-        name: book
-        color: '#e24d0e'
+# menu:
+#  main:
+#    weight: 600
+#    params:
+#      icon:
+#        vendor: bs
+#        name: book
+#        color: '#e24d0e'
 ---
 {{% bs/alert %}}
 Let us serve you no matter where you're located.

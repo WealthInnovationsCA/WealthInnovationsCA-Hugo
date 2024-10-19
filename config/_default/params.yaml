@@ -7,14 +7,14 @@ hb:
     socials:
       github: WealthInnovationsCA
       linkedin: foo
-      twitter: foo
+      twitter: wealthinnovate
       mastodon: foo
-      facebook: foo
+      facebook: Wealth-Innovations-Inc/61566323390992
       instagram: foo
 
   footer:
     socials:
-      github: Claire-Crawford
+      github: ClaireElyseCrawford
     powered_by: false
   blog:
     paginate: 12 # paginate.
@@ -42,7 +42,8 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    svg_icon: /image/favicon.svg # use logo as favicon.
+    icon: favicon.png
+    # svg_icon: /image/favicon.svg # use logo as favicon.
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
