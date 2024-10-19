@@ -1,20 +1,27 @@
 description: Your wealth, our innovation. Together we grow.
 
 hb:
+  logo: 'logoblue.svg'
   header:
     brand: "Wealth Innovations Inc." # the brand name, leave it empty to use site's title.
-    logo_bg: dark green # logo background color, used by logo with transparent background.
+    breakpoint: lg
+    full_width: true
+    menus_allignment: center
+    logo_bg: white # logo background color, used by logo with transparent background.
     socials:
       github: WealthInnovationsCA
-      linkedin: foo
+      # linkedin: foo
       twitter: wealthinnovate
-      mastodon: foo
+      # mastodon: foo
       facebook: Wealth-Innovations-Inc/61566323390992
-      instagram: foo
+      # instagram: foo
 
   footer:
     socials:
-      github: ClaireElyseCrawford
+      gmail: 'mailto: info@WealthInnovations.ca'
+      github: WealthInnovationsCA
+      twitter: wealthinnovate
+      facebook: Wealth-Innovations-Inc/61566323390992
     powered_by: false
   blog:
     paginate: 12 # paginate.

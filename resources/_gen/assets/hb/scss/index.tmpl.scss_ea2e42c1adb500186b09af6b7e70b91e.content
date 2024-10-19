@@ -13387,7 +13387,7 @@ html {
 }
 
 .hb-header-logo {
-  background: dark green;
+  background: white;
 }
 
 .hb-header-submenu {
