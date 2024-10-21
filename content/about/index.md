@@ -45,36 +45,55 @@ As part of this process, we help you develop and implement your personal and cor
 ### Our Commitment
 Our team’s multi-disciplinary approach to helping professionals, retirees and business owners achieve their goals may not be unique, but our commitment to this objective is. To learn how you could improve your financial future, give us a call.
 
-### Our core competencies
+### Our Core Competencies
+---
 <div class="container">
-<div class="row gap-3">
-<div class="card col-4" style="width: 18 rem;">
-<div class="card-body">
-<h5 class="card-title bg-info text-dark">Objectivity</h5>
-<p class="card-text">Our clients can be certain that the recommendations made by us are driven exclusively by their needs.</p>
+<div class="row justify-content-center gap-3">
+<div class="card col-4">
+
+<div class="d-flex flex-row justify-content-around card-header bg-info ">
+{{< ico mdi scale-unbalanced 3em >}}
+<h3 class="card-title text-dark">Objectivity</h3>
 </div>
+
+  <div class="card-body">
+    <p class="card-text">Our clients can be certain that the recommendations made by us are driven exclusively by their needs.</p>
+  </div>
 </div>
-<div class="card col-4" style="width: 18 rem;">
+
+<div class="card col-4">
+<div class="d-flex flex-row justify-content-around card-header bg-info ">
+{{< ico bs transparency 3em >}}
+<h3 class="card-title">Transparency</h3></div>
+
 <div class="card-body">
-<h5 class="card-title">Transparency</h5>
 <p class="card-text">Our process and recommendations are fully transparent to our clients.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18 rem;">
+<div class="card col-4">
+<div class="d-flex flex-row justify-content-around card-header bg-info ">
+{{< ico devicons "processing/processing-original-wordmark" 3em >}}
+<h3 class="card-title">Process</h3></div>
+
 <div class="card-body">
-<h5 class="card-title">Process</h5>
-<p class="card-text">We have a clearly defined process for the assessment, implementation and review of our recommendations.</p>
+  <p class="card-text">We have a clearly defined process for the assessment, implementation and review of our recommendations.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18 rem;">
+
+<div class="card col-3">
+<div class="d-flex flex-row justify-content-around card-header bg-info ">
+{{< ico mdi room-service-outline 3em >}}
+<h3 class="card-title">Service</h3></div>
+
 <div class="card-body">
-<h5 class="card-title">Service</h5>
 <p class="card-text">We deliver the exceptional service expected by the clients we serve.</p>
 </div>
 </div>
-<div class="card col-4" style="width: 18 rem;">
+<div class="card col-4">
+<div class="d-flex flex-row justify-content-around card-header bg-info ">
+{{< ico simple-icons affinitydesigner 3em >}}
+<h3 class="card-title">Innovative</h3></div>
 <div class="card-body">
-<h5 class="card-title">Innovative</h5>
 <p class="card-text">Our unique research process offers creative insurance and investment solutions</p>
 </div>
 </div>
