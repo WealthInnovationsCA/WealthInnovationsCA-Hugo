@@ -1,9 +1,9 @@
 description: Your wealth, our innovation. Together we grow.
 
 hb:
-  logo: 'logoblue.svg'
+  logo: 'images/GoldLeafLogo.jpg'
   header:
-    brand: "Wealth Innovations Inc." # the brand name, leave it empty to use site's title.
+    brand: " " # the brand name, leave it empty to use site's title.
     breakpoint: lg
     full_width: true
     menus_allignment: center
@@ -19,7 +19,6 @@ hb:
   footer:
     socials:
       gmail: 'mailto: info@WealthInnovations.ca'
-      github: WealthInnovationsCA
       twitter: wealthinnovate
       facebook: Wealth-Innovations-Inc/61566323390992
     powered_by: false
