@@ -11,6 +11,8 @@ case "$OSTYPE" in
     darwin*)
         echo "Update Darwin MacOS"
         sudo softwareupdate -i -a -R
+        # verifies git is installed
+        git --version
         brew install mas
         ;;
     linux*)

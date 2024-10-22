@@ -1,5 +1,5 @@
 ---
-title: Index Page for WealthInnovations.CA website
+title: Home Page for WealthInnovations.CA website
 menu:
   main:
     name: Home
