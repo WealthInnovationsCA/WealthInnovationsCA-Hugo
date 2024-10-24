@@ -14,6 +14,9 @@ categories: dev
 {{% bs/col class="border py-3 text-dark" %}}
 <p style="background-color: #D4AF37;">Complimentary</p>
 {{% /bs/col %}}
+{{% bs/col class="border py-3 text-dark" %}}
+<p style="background-color: gold;">CSS gold highlight</p>
+{{% /bs/col %}}
 {{% bs/col class="border py-3" %}}
 <p style="background-color: hsl(206, 65%, 50%);">Secondary</p>
 {{% /bs/col %}}{{% bs/col class="border py-3" %}}
