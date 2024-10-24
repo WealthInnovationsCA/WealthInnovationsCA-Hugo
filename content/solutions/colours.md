@@ -4,6 +4,7 @@ date: 2024-10-21T23:22:35-05:00
 draft: true
 categories: dev
 ---
+<Style type='text/css' >body{background-image:url(/images/ZingerBug_orange_parchment_paper_wallpaper_texture_seamless.jpg);background-position:top left;background-repeat:repeat;background-attachment:fixed;}</Style>
 
 {{% bs/container class="text-center" %}}
 {{% bs/row "1 md:2 lg:3" "mb-3" %}}
@@ -47,5 +48,6 @@ categories: dev
 {{% bs/col class="border py-3 text-dark" %}}
 <p style="background-color: hsl(116, 100%, 50%);">Triadic1Sat</p>
 {{% /bs/col %}}
+
 {{% /bs/row %}}
 {{% /bs/container %}}

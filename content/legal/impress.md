@@ -14,7 +14,7 @@ categories:
   - Legal 
 tags:
 #  - 
-images: [AdobeStock_35704702_Impressum.svg]
+images: [/images/AdobeStock_35704702_Impressum.svg]
 menu:
   footer:
     weight: 400
